@@ -24,5 +24,12 @@
       "uris": ["magnet:?xt=urn:btih:3B404EBC0C84CCAA63D7D5C6586CF8AF17386CF0&dn=Minecraft%20Legends%20by%20Pioneer&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"],
       "uploadDate": "2024-10-22T23:16:30.000Z",
       "fileSize": "10.50 GB"
-    }
+    },
+    {
+      "title": "Cult Of The Lamb v1.4.4.592 by Pioneer",
+      "uris": ["magnet:?xt=urn:btih:883FC7DC7775DFB6E964027F41F2309CE3DE1563&dn=Cult%20Of%20The%20Lamb%20v1.4.4.592%20by%20Pioneer&tr=udp%3a%2f%2fopentor.net%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fretracker.local%2fannounce&tr=http%3a%2f%2ftracker.grepler.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.com%3a6969%2fannounce&tr=http%3a%2f%2fh4.trakx.nibba.trade%3a80%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.bitsearch.to%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce"],
+      "uploadDate": "2024-10-22T23:16:30.000Z",
+      "fileSize": "2.36 GB"
+    },
+  ]
 }
