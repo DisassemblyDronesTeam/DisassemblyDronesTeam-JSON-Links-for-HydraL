@@ -1,0 +1,28 @@
+{
+  "name": "FreeTP",
+  "downloads": [
+    {
+      "title": "The Jackbox Party Pack 2 (Русификатор, by Pioneer)",
+      "uris": ["magnet:?xt=urn:btih:017A9E67821383ACC658F6033E630992AB63EE65&dn=The%20Jackbox%20Party%20Pack%202%20by%20Pioneer&tr=https%3a%2f%2f1337.abcvg.info%3a443%2fannounce&tr=http%3a%2f%2fopen.touki.ru%2fannounce.php&tr=http%3a%2f%2ftracker.corpscorp.online%2fannounce&tr=http%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker4.itzmx.com%3a2710%2fannounce&tr=http%3a%2f%2fbt4.t-ru.org%2fann&tr=http%3a%2f%2fwww.bittorrent-support.com%2fannounce.php&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=http%3a%2f%2ftracker.themixingbowl.org%2fannounce.php&tr=http%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.cypherpunks.ru%3a6969%2fannounce&tr=http%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=http%3a%2f%2fwww.torrent.by%2fannounce.php"],
+      "uploadDate": "2024-10-22T23:16:30.000Z",
+      "fileSize": "1 GB"
+    },
+    {
+      "title": "Moving Out 2 (Offline Fix + DLC)",
+      "uris": ["magnet:?xt=urn:btih:4570D7D8362A0226CE6AACB918F802D42E03EB9F&dn=Moving%20Out%202%20v1.3.311%20by%20Pioneer&tr=udp%3a%2f%2fopentor.net%3a6969&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fec2-18-191-163-220.us-east-2.compute.amazonaws.com%3a6969%2fannounce&tr=udp%3a%2f%2fodd-hd.fr%3a6969%2fannounce&tr=https%3a%2f%2ftracker.yemekyedim.com%3a443%2fannounce&tr=udp%3a%2f%2ftracker.bitsearch.to%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce"],
+      "uploadDate": "2024-10-22T23:16:30.000Z",
+      "fileSize": "0.9 GB"
+    },
+    {
+      "title": "Minecraft-for-Windows-Bedrock-Edition (Microsoft Store | Xbox ) (Версия 1.19.51)",
+      "uris": ["magnet:?xt=urn:btih:161EF45E78541B8E9226E194E1680EAB39CD2686&dn=Minecraft%20-%20Bedrock%20Edition%20%28Microsoft%20Store%29&tr=http%3a%2f%2fbt3.t-ru.org%2fann&tr=http%3a%2f%2fretracker.local%2fannounce&tr=wss%3a%2f%2fwstracker.online"],
+      "uploadDate": "2024-10-22T23:16:30.000Z",
+      "fileSize": "1.52 GB"
+    },
+    {
+      "title": "Minecraft Legends Portable by Pioneer",
+      "uris": ["magnet:?xt=urn:btih:3B404EBC0C84CCAA63D7D5C6586CF8AF17386CF0&dn=Minecraft%20Legends%20by%20Pioneer&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce"],
+      "uploadDate": "2024-10-22T23:16:30.000Z",
+      "fileSize": "10.50 GB"
+    }
+}
